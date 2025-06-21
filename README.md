@@ -1,6 +1,5 @@
 ## Dynamic Programming to find minimum sum combinations
 
-I completed this project as part of coursework for the AI & ML module taught in semester 1. 
 
 The function `minsumcomb(x,M)` aims to search for the minimum sum combination of size `M` given a list of integers.
 It takes in a list of integers `x` and a positive integer `M` and returns all iterations of the Bellman recursion below:
